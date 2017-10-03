@@ -1,0 +1,27 @@
+{
+  "name": "cli",
+  "version": "1.0.0",
+  "description": "monitor telegram",
+  "main": "app.js",
+  "dependencies": {
+    "path": "^0.12.7",
+    "tg-cli-node": "0.0.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amirbagh75/tlg-cli-sadjad-uni.git"
+  },
+  "keywords": [
+    "bot"
+  ],
+  "author": "amirbagh75",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amirbagh75/tlg-cli-sadjad-uni/issues"
+  },
+  "homepage": "https://github.com/amirbagh75/tlg-cli-sadjad-uni#readme"
+}
